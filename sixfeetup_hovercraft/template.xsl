@@ -78,7 +78,7 @@ xmlns="http://www.w3.org/1999/xhtml">
           </xsl:attribute>
         </xsl:if>
         <xsl:for-each select="step">
-          <div class="step">
+          <div class="step" dir="rtl">
             <xsl:copy-of select="@*"/>
             <xsl:apply-templates />
           </div>
