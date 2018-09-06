@@ -17,7 +17,7 @@
 
 MCSH.github.io
 
-@Sajjad_Heydari
+Sajjad_Heydari@
 
 ----
 
@@ -75,7 +75,7 @@ MCSH.github.io
 
 * fork
 * edit
-* pull request
+* merge request
 
 ----
 
